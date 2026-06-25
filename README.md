@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Imanol 👋
 
-<!--
-**ijm11/ijm11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics Engineer specialized in **embedded systems, FPGA, and applied artificial intelligence**.
+I design firmware and hardware for onboard drone systems at [Embention](https://embention.com),
+and hold a Master's degree in Artificial Intelligence from the University of Alicante.
 
-Here are some ideas to get you started:
+I'm driven by the intersection of hardware and algorithms: building systems that don't
+just work on paper, but run reliably and in real time on the actual hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Stack
+`VHDL` · `C++` · `Python` · `Vivado` · `Petalinux` · `Vitis` · `ROS` · `Computer Vision` · `Deep Learning`
+
+## 🚀 Featured Projects
+
+**Detect & Avoid for UAVs** — Obstacle detection and avoidance system for drones,
+implemented on an AMD Kria KV260 embedded platform, combining computer vision and
+reconfigurable hardware to improve safety in urban air corridors.
+
+**Domain Transformation for Diabetic Retinopathy Detection** — AI model applied to
+OCT images to improve diagnostic generalization across different imaging devices.
+
+## 📫 Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imanol-jurado-martinez/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imanoljurmar@gmail.com)
